@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/mnt/windir/Users/luis/Workspace/Scripts/Python/pyPdf-1.13'
+let g:netrw_dirhist_2='/mnt/windir/Users/luis/Workspace/Scripts/Python'
+let g:netrw_dirhist_3='/mnt/windir/Users/luis/Workspace/Scripts/Python/dataviz'
+let g:netrw_dirhist_4='/mnt/windir/Users/luis/Workspace/Scripts/Python'
+let g:netrw_dirhist_5='/mnt/windir/Users/luis/Workspace/Scripts/Python/dataviz'
+let g:netrw_dirhist_6='/mnt/windir/Users/luis/Workspace/Scripts/Python'
